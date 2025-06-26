@@ -8,6 +8,6 @@ This project was initiated to determine whether there was a correlation between 
 
 ### Project Briefings
 
-Here you can find the project proposal: [Project Proposal](d502/D195 Task 2 V2.pdf).
+Here you can find the project proposal: [Project Proposal](D195_Task_2_V2).
 
-Here you can find the project report: [Project Report](d502/D195 Task 3 V1.pdf).
+Here you can find the project report: [Project Briefing](D195_Task_3_V1.pdf).
