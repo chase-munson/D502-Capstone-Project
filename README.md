@@ -6,8 +6,8 @@ This repository stores the results of my capstone project for my bachelor's degr
 
 This project was initiated to determine whether there was a correlation between domestic flight delays and weather in the national airline market. More specifically, the intent was to determine whether globally changing weather patterns are causing more delays.
 
-### Project Briefings
+### Project Proposal and Report
 
-Here you can find the project proposal: [Project Proposal](D195_Task_2_V2).
+Here you can find the project proposal: [Project Proposal](D502_Project_Proposal.pdf)
 
-Here you can find the project report: [Project Briefing](D195_Task_3_V1.pdf).
+Here you can find the project report: [Project Report](D502_Project_Report).
