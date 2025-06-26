@@ -10,4 +10,4 @@ This project was initiated to determine whether there was a correlation between 
 
 Here you can find the project proposal: [Project Proposal](D502_Project_Proposal.pdf)
 
-Here you can find the project report: [Project Report](D502_Project_Report).
+Here you can find the project report: [Project Report](D502_Project_Report)
